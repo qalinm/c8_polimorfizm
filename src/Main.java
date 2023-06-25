@@ -16,6 +16,6 @@ public class Main {
         pracownik.identify=1234;
         pracownik.zawod= "Piosenkarka";
         System.out.println(pracownik);
-        System.out.println("bagno");
+        System.out.println("pozdrawiam");
     }
 }
